@@ -1,0 +1,11 @@
+{
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": false,
+  "things-style@@active-line": true,
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "things-style@@strong-color": "#C22424",
+  "things-style@@em-color": "#A3CAE3",
+  "id@@callout-on": true,
+  "things-style@@default-font-color": false
+}

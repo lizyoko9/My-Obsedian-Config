@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "cfc6fbc3b9fc646c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01ab9330cc34fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afa1a0cfe3fdced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65b161c75deb9df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course/MarkdownStudy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e2e437e5002cbb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edca2b1d8b2626d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4694aac3663abb84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78cb791dd2dcba5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "200de697573be2bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce4c51ab1cc724e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20f6a0b2f92f7ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce518df2ecf0f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64a20144273ebd11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "复试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "348de171e999414a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "复试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8af6395b632a5212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bed2597ccd49bc13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "复试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "3afa1a0cfe3fdced",
+  "lastOpenFiles": [
+    "CMAKE.md",
+    "What Is WAQL.md",
+    "考研/高等数学/多重积分.md",
+    "Course/现代通信原理/Lesson3.md",
+    "Course/通信原理/信息熵.md",
+    "Course/DSP/Homomorphic.md",
+    "Course/DSP/卡尔曼滤波.md",
+    "Course/English.md",
+    "Course/机器学习.md",
+    "Course/MarkdownStudy.md",
+    "复试.md",
+    "考研/高等数学",
+    "考研/信号与系统",
+    "考研",
+    "Programming/C++/值传递.md",
+    "Programming/C++/Untitled.md",
+    "Programming/C++/左值右值.md",
+    "Programming/C++/指针.md",
+    "Programming/C++/数据类型.md",
+    "Programming/C++/拷贝、赋值.md",
+    "Programming/C#/lambda.md",
+    "Course/PureData.md",
+    "Programming/C#/Delegate.md",
+    "Programming/C#/多态.md",
+    "Course/Math/微分方程.md",
+    "Programming/Python/PVM.md",
+    "Programming/Python",
+    "Course/Math",
+    "Game/Wwise/WwiseWAQL.md",
+    "Daily/ME.md",
+    "Game/Wwise/API理解.md"
+  ]
+}

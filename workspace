@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "cfc6fbc3b9fc646c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e694f7d3ac454d8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Game/Wwise/WwiseWAQL.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e2e437e5002cbb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edca2b1d8b2626d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4694aac3663abb84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78cb791dd2dcba5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "200de697573be2bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20f6a0b2f92f7ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce518df2ecf0f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64a20144273ebd11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game/Wwise/WwiseWAQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "348de171e999414a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game/Wwise/WwiseWAQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8af6395b632a5212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bed2597ccd49bc13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game/Wwise/WwiseWAQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e694f7d3ac454d8f",
+  "lastOpenFiles": [
+    "Game/Wwise/Wwise博客学习笔记.md",
+    "What Is WAQL.md",
+    "Game/Wwise/WwiseWAQL.md",
+    "Game/Wwise/Wwise学习笔记.md",
+    "Game/GameAudioProgramming.md",
+    "Course/PureData.md",
+    "Music and SFX/Sound Design.md",
+    "Music and SFX/GameMusic写作.md",
+    "Music and SFX/Game SFX.md",
+    "Music and SFX/杂七杂八.md"
+  ]
+}
